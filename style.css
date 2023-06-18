@@ -39,3 +39,7 @@ body {
 .pager button:focus {
   flex: 0 0 80px;
 }
+
+.pager button:focus span {
+  background: #00c853;
+}
